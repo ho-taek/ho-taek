@@ -1,16 +1,18 @@
-### Hi there 👋
+## <div align=center> <h3>🚗stack🚕</h3> </div>
+<div align=center>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  </t> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+</div>
 
-<!--
-**ho-taek/ho-taek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center> <h3>🚍 Mine </h3> </div>
+<div align=center>
+<a href="https://velog.io/@ho-taek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+</br>
+  <div align=center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-taek&show_icons=true&theme=merko)
+  
+</div>
