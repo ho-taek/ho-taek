@@ -1,6 +1,6 @@
 ## <div align=center> <h3>🚗stack🚕</h3> </div>
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  </t> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  </t> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> </t> <img src="https://img.shields.io/badge/Kotlin-1568AB?style=flat-squre&logo=Kotlin&logoColor=white"/>
 </div>
 
 <div align=center> <h3>🚍 My Blog </h3> </div>
