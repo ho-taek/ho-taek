@@ -6,7 +6,7 @@
 <div align=center> <h3>🚍 My Blog </h3> </div>
 <div align=center>
 <a href="https://velog.io/@ho-taek" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://goodbegunishalfdone.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Vimeo&logoColor=orange"/></a>
+<a href="https://goodbegunishalfdone.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
 </div>
 
 </br>
