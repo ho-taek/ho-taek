@@ -9,10 +9,14 @@
 <a href="https://goodbegunishalfdone.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=orange"/></a>
 </div>
 
+<div align=center> <h3>My Langauge</h3></div>
+<div align=center>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+</div>
+
 </br>
 </br>
   <div align=center>
-  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ho-taek&show_icons=true&theme=merko)
   
 </div>
