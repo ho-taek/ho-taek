@@ -12,7 +12,7 @@
 
 <div align=center> <h3>My Langauge</h3></div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho-taek&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ho-taek&count_private=true&langs_count=6&hide=jupyter%20notebook)
 
 
 </br>
