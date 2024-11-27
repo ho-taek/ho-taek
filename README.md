@@ -28,6 +28,7 @@
 
 |프로젝트|내용|깃허브/플레이스토어|
 |------|---|---|
+|RunIt(Android 개발)| 러닝 측정 및 랭킹 시스템을 통한 동기부여 플랫폼 2024.10.14 ~ 2024.11.29|[github](https://github.com/ho-taek/RunIt)|
 |Colorpl(Android 개발)|문화 생활 티켓 저장 및 예매 플랫폼 2024.07 ~ 2024.08|[github](https://github.com/ho-taek/colorpl)|
 |허슬풋볼(Android 개발)|풋살 및 축구 레슨 중개 플랫폼 2023.01 ~ 2023.10 |[store](https://play.google.com/store/apps/details?id=hustle.com&hl=uz&gl=US)|
 |나도선배(Android 개발)|복수전공 정보 공유 커뮤니티 플랫폼 2021.12 ~ 2022.10|[github](https://github.com/TeamNado-Sunbae/NadoSunbae-Android)|
